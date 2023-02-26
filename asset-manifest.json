@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/AndrewDangCV/static/css/main.101189c2.css",
+    "main.css": "/AndrewDangCV/static/css/main.f234d6a0.css",
     "main.js": "/AndrewDangCV/static/js/main.6fcdce39.js",
     "static/js/787.aad65a53.chunk.js": "/AndrewDangCV/static/js/787.aad65a53.chunk.js",
     "static/media/233023_cv_Background-2-01.svg": "/AndrewDangCV/static/media/233023_cv_Background-2-01.86ddd3d2e47ff31c443dcb3a6c49d1ae.svg",
     "static/media/Andrew_Portrait.jpeg": "/AndrewDangCV/static/media/Andrew_Portrait.10a9d00e22d1bfcf5fa8.jpeg",
     "static/media/230223_cv_Background_04-01.svg": "/AndrewDangCV/static/media/230223_cv_Background_04-01.97b5b140cee5c4f8a1eb2b55a9486761.svg",
     "index.html": "/AndrewDangCV/index.html",
-    "main.101189c2.css.map": "/AndrewDangCV/static/css/main.101189c2.css.map",
+    "main.f234d6a0.css.map": "/AndrewDangCV/static/css/main.f234d6a0.css.map",
     "main.6fcdce39.js.map": "/AndrewDangCV/static/js/main.6fcdce39.js.map",
     "787.aad65a53.chunk.js.map": "/AndrewDangCV/static/js/787.aad65a53.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.101189c2.css",
+    "static/css/main.f234d6a0.css",
     "static/js/main.6fcdce39.js"
   ]
 }

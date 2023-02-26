@@ -161,12 +161,23 @@
 
 .banner-bg-image-2{
     /* width: 250%; */
-    height: 250%;
+    height: 350%;
     object-fit: cover;
     position: absolute;
     z-index: -2;
-    top: -400px;
+    top: -550px;
 }
+@media screen and (max-width: 2800px) {
+    .banner-bg-image-2{
+        /* width: 250%; */
+        height: 250%;
+        object-fit: cover;
+        position: absolute;
+        z-index: -2;
+        top: -400px;
+    }
+}
+
 .bannerTxt{
     position: relative;
     padding: 10px 30px 10px 30px;

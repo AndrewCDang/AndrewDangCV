@@ -5,16 +5,16 @@
 
 function Skills({ skills }) {
     const skillCards = skills.map((item, index) => (
-      <div className="skill-card" key={index}>
-        <p className="darkgreytext bold text-margin0">{item.skill}</p>
-        <div className="skill-rating">
+      <div className={item.type} key={index}>
+        <p className="greytext-2 bold text-margin0">{item.skill}</p>
+        {/* <div className="skill-rating">
           {[...Array(item.rating)].map((item, i) => (
             <div className="skill-red skill-icon" key={i}></div>
           ))}
           {[...Array(5-item.rating)].map((item, i) => (
             <div className="skill-icon" key={i}></div>
           ))}
-        </div>
+        </div> */}
       </div>
     ));
 

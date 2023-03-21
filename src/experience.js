@@ -24,8 +24,8 @@ function Experience(){
                             <Accordion.Item eventKey="1">
                                 <Accordion.Header className='graytext'>Description</Accordion.Header>
                                     <Accordion.Body className='caption2'>
-                                    I have acquired proficiency in web programming with HTML, CSS, and JavaScript, allowing me to create interactive websites.I have also gained expertise in React for building single-page front-end applications, including setting up a repository and utilising version control and common Git commands. As a culmination of my learning, I am currently compiling a portfolio of various projects and applications that showcase my newly acquired skills
-                                </Accordion.Body>
+                                    Over the past few months of continuously learning and instilling important concepts of programming, I every acquired a high level of proficiency in web programming, with a focus on utilising HTML, CSS, and JavaScript to create dynamic and engaging websites. Additionally, I have honed my expertise in React, enabling me to build sophisticated front-end applications and leveraged version control tools like Git to ensure seamless project management.<br></br><br></br>Moreover, my knowledge extends to advanced concepts such as Redux Toolkit, which allows for efficient state management in complex applications. I am currently expanding my skill set to encompass back-end frameworks such as Express and database technologies like MongoDB, in order to create full stack MERN applications.<br></br><br></br>As a testament to my dedication and hard work, I am excited to share my current portfolio, which showcases a diverse range of projects and applications that demonstrate my newly acquired skills so far. I am passionate about staying at the forefront of web development and am constantly seeking opportunities to learn and grow in this exciting field.
+                                    </Accordion.Body>
                             </Accordion.Item>
                         </Accordion>
                     </div>
